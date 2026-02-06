@@ -119,4 +119,3 @@ Example:
 dev.tfvars
 
 prod.tfvars
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b5e510d-6e2c-42df-9aa3-5991760aa85b" />
